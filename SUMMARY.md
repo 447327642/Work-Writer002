@@ -12,10 +12,11 @@
 * [第三讲：同一颗大脑](chapter03/README.md)
    * [笔记](chapter03/note.md)
    * [作业](chapter03/assignment.md)
-   * [3wd6 QA 组块整理](3wd6 QA Chunkings)
+   * [3wd6 QA 组块整理](chapter03/3wd6 QA Chunkings.md/3wd6qa_chunkings_md.md)
 * [第四讲：隐喻的世界](chapter04/README.md)
    * [笔记](chapter04/note.md)
    * [作业](chapter04/assignment.md)
+   * 4w Questions
 * [第五讲：修辞以立其感（上）](chapter05/README.md)
    * [笔记](chapter05/note.md)
    * [作业](chapter05/assignment.md)
