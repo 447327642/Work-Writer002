@@ -38,28 +38,19 @@
 
 下面是Github上排名靠前同学的大作业
 
-* 林晓彬 [@Linkding | 夜跑春夜里](https://github.com/Linkding/BookWriter002/blob/master/chapter04/assignment.md)
-* 
-* 农人90 [@ShuangFarmer | 乌鸦火锅](https://github.com/ShuangFarmer/BookWriter002/blob/master/chapter04/assignment.md)
-* 
+* 林晓彬 [@Linkding | 夜跑春夜里](https://github.com/Linkding/BookWriter002/blob/master/chapter04/assignment.md) 
+* 农人90 [@ShuangFarmer | 乌鸦火锅](https://github.com/ShuangFarmer/BookWriter002/blob/master/chapter04/assignment.md) 
 * 许豆浆 [@xudoujiangg | 送园路](https://github.com/xudoujiang/BookWriter002/blob/master/chapter04/4w%E5%A4%A7%E4%BD%9C%E4%B8%9A%EF%BC%9A%E7%94%9F%E6%B4%BB%E7%BA%AA%E4%BA%8B.md)
-* 
 * 张海良 [@GettingThingsDone | 地铁记趣](https://github.com/GettingThingsDone/BookWriter002/blob/master/chapter04/assignment.md)
-* 
 * 李涵 [@Hawli777 | 一个优步司机的爱恨情仇](https://github.com/Hawli777/BookWriter002/blob/master/chapter04/assignment.md)
-* 
 * 婷婷   [@kt1130 大作业](https://github.com/kt1130/BookWriter002/blob/master/chapter04/assignment.md)
-* 
 * 王培炎 [@cp4 | 2046 李雷](https://github.com/cp4/BookWriter002/blob/master/chapter04/assignment.md)
 
 
 * 陈珂洁 [@tararata 纳木错的裙摆](https://github.com/tararata/BookWriter002/blob/master/chapter04/assignment.md)
 * 尹珺   [@cherryPotter 我的生活记趣](https://github.com/cherryPotter/BookWriter002/blob/master/chapter04/assignment.md)
-* 
 * 周珍  [@zoejane Zoe的沙盘漫游](https://github.com/zoejane/BookWriter002/blob/master/chapter04/assignment.md)
-* 
 * 小酒精 [@lvjiu 大作业](https://github.com/lvjiu/BookWriter002/blob/master/chapter04/assignment.md)
-* 
 * Elodie603 [@Elodie603 晏紫相亲记](https://github.com/Elodie603/BookWriter002/blob/master/chapter04/assignment.md)
 
 ##小作业
