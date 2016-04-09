@@ -10,7 +10,7 @@
    * [笔记](chapter02/note.md)
    * [作业](chapter02/assignment.md)
 * [第三讲：同一颗大脑](chapter03/README.md)
-   * [备忘录 160408章靛会谈要点记录](chapter03/160408 Notes ZhangDian.md/notes.md)
+   * [备忘录 160408章靛会谈要点记录](chapter03/160408 Notes ZhangDian.md.md)
    * [作业](chapter03/assignment.md)
    * [3wd6 QA 组块整理](chapter03/3wd6 QA Chunkings.md/3wd6qa_chunkings_md.md)
 * [第四讲：隐喻的世界](chapter04/README.md)
