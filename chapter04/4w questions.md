@@ -7,6 +7,8 @@
 
 ##课程相关问题
 
+[象似原则的理解问题 · Issue #115 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/115)
+
 [请教如何理解和使用本周知识点 ·Issue #114·OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/114)
 
 [普遍人性的5类，背后的分类线索是什么？·Issue #110· OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/110)
