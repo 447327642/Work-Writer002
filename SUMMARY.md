@@ -12,7 +12,7 @@
 * [第三讲：同一颗大脑](chapter03/README.md)
    * [笔记](chapter03/note.md)
    * [作业](chapter03/assignment.md)
-   * 3wd6 QA 组块整理
+   * [3wd6 QA 组块整理](3wd6 QA Chunkings)
 * [第四讲：隐喻的世界](chapter04/README.md)
    * [笔记](chapter04/note.md)
    * [作业](chapter04/assignment.md)
