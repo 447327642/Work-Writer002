@@ -16,7 +16,7 @@
 * [第四讲：隐喻的世界](chapter04/README.md)
    * [笔记](chapter04/note.md)
    * [作业](chapter04/assignment.md)
-   * [4w Questions](4w Questions)
+   * [4w Questions](chapter4/4w questions.md/4w_questions.md)
 * [第五讲：修辞以立其感（上）](chapter05/README.md)
    * [笔记](chapter05/note.md)
    * [作业](chapter05/assignment.md)
