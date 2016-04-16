@@ -1,4 +1,4 @@
-# [5w] 学员Github问题汇总
+# [5w] 学员GitHub  问题汇总
 
 志愿者可直接点击 [Issues · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues)
 
@@ -39,7 +39,7 @@
 
 # 学员笔记
 
-## 本周 Github 排名前 20 的学员笔记
+## 本周 GitHub 排名前 20 的学员笔记
 
 * 张海良 [@GettingThingsDone  第五讲 文采——修辞以立其感（上）](https://github.com/GettingThingsDone/BookWriter002/blob/master/chapter05/note.md)
 * 林晓彬 [@LinKdiing](https://github.com/Linkding/BookWriter002/tree/master/chapter05)
