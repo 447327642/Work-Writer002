@@ -23,7 +23,9 @@
 
 ## 学习习惯
 
-[关于构建个人知识管理体系的几个问题 · Issue #144 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/144)
+[为什么「教学相长」是骗人的？ · Issue #145 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/145)
+
+关于构建个人知识管理体系的几个问题 · Issue #144 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/144)
 
 [好的日记和读书笔记是什么样？ · Issue #139 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/139)
 
