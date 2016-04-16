@@ -4,6 +4,8 @@
 
 ## 课程内容问题
 
+[关于钱钟书所用比喻的疑问？ · Issue #146 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/146)
+
 [真善美和诚真感有对应关系吗？ · Issue #143 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/143)
 
 [什么是「具身认知」，它对认知、学习、写作的意义 · Issue #140 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/140)
