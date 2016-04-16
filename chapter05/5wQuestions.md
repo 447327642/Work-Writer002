@@ -4,6 +4,8 @@
 
 ## 课程内容问题
 
+[修辞三书跟『修辞以立其诚 / 真 / 感』的关系是？ · Issue #147 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/147)
+
 [关于钱钟书所用比喻的疑问？ · Issue #146 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/146)
 
 [真善美和诚真感有对应关系吗？ · Issue #143 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/143)
