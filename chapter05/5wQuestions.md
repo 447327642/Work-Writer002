@@ -23,6 +23,8 @@
 
 ## 学习习惯
 
+[关于构建个人知识管理体系的几个问题 · Issue #144 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/144)
+
 [好的日记和读书笔记是什么样？ · Issue #139 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/139)
 
 [Mac 电脑上信息实体、元实体和实体的分类 · Issue #138 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/138)
