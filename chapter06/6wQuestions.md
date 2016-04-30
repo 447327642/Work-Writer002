@@ -10,8 +10,10 @@
 
 ## 写作建议
 
-[【问题】能否把认知写作学利用到改善儿童的作文训练中去？ · Issue #163 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/163)
+[【问题】写匠中的词云图怎样帮助提高写作呢？ · Issue #164 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/164)
 
+[【问题】能否把认知写作学利用到改善儿童的作文训练中去？ · Issue #163 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/163)
+ 
 ## 学习习惯建议
 
 [使用 textmate 和 scrivener 之间是否有冲突？ · Issue #158 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/158)
