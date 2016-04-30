@@ -46,7 +46,7 @@
 * 赵传阳 @arlmy [大作业](https://github.com/arlmy/BookWriter002/blob/master/chapter06/assignment.md)
 * 马双 @ShuangFarmer [大作业](https://github.com/ShuangFarmer/BookWriter002/blob/master/chapter06/assignment.md)　
 
-## 学员优秀笔记
+# 部分学员优秀笔记
 
 * 小酒精 @lvjiu [另类修辞私房菜，藏外别传心印心](https://github.com/lvjiu/BookWriter002/blob/master/chapter06/note.md)
 * 李晓静 @xiaojingli [学习笔记](https://github.com/xiaojingli/BookWriter002/tree/master/chapter06)
