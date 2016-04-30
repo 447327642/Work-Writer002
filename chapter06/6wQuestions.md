@@ -22,7 +22,7 @@
 
 项目及仓库 | 更新负责人 | 6~7W 进展 | 下周计划 | 遇到的问题 / 所需支持
 ----------|----------|-----------|---------|----------------------
-[Your Pets I Pet 你宠我宠](https://github.com/yourpetsipet/YourPetsIPet) | @kt1130 | [确定痛点及方案](https://github.com/yourpetsipet/YourPetsIPet/issues/2) / [初步拟定脚本逻辑](https://github.com/yourpetsipet/YourPetsIPet/issues/3) / 素材搜集完毕 [项目进展](https://github.com/yourpetsipet/YourPetsIPet/issues/4) | 完成幻灯框架 / 选音乐素材完成音频 | 技术不成熟，只会用简单工具 / 需要同时准备考试，修改时间不够充裕
+[Your Pets I Pet 你宠我宠](https://github.com/yourpetsipet/YourPetsIPet) | @kt1130 | [确定痛点及方案](https://github.com/yourpetsipet/YourPetsIPet/issues/2) / [初步拟定脚本逻辑](https://github.com/yourpetsipet/YourPetsIPet/issues/3) / [素材搜集完毕](https://github.com/yourpetsipet/YourPetsIPet/issues/4) | 完成幻灯框架 / 选择音乐素材完成音频 | 技术不成熟，只会用简单工具 / 需要同时准备考试，修改时间不够充裕
 [Runmap](https://github.com/Run-map/RUNMAP) | @shawn0lee0 | [任务分工安排 / 竞品分析](https://github.com/Run-map/RUNMAP/issues/8) / [观察团动态](https://github.com/Run-map/RUNMAP/issues/7) | 故事脚本 / 幻灯框架 / 最小素材 |
 [CureYourFear](https://github.com/CureYourFear/PublicSpeaking) | @arlmy | 产品框架成型 / 脚本 1.0 讨论 | 素材收集 / 脚本更新 / 模板选定 | 目标听众不明——投资人 or 用户？ / BP 评价标准？ / 脚本构思——复杂故事 or 最小故事？/ 想用第一人称来呈现故事，是否可行？
 [陪孩子读诗](https://github.com/PoemsWithKids/Plans-for-BP) | @xiaojingli | 目标人群及痛点分析 / 卡包必要功能 / 故事结构 [Keynote 构想](https://github.com/PoemsWithKids/Plans-for-BP/issues/11) | Keynote 制作 / 文字内容及润色 | 场景化描述类似小动画，构想如何用 Keynote 实现 / 在哪里、怎样选择合适的素材并处理
