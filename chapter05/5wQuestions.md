@@ -1,16 +1,20 @@
-# [5w] 学员Github问题汇总
+# [5w] 学员GitHub  问题汇总
 
-志愿者可直接点击[Issues · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues)
+志愿者可直接点击 [Issues · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues)
 
 ## 课程内容问题
 
-[真善美和诚真感有对应关系吗？ ·Issue #143 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/143)
+[修辞三书跟『修辞以立其诚 / 真 / 感』的关系是？ · Issue #147 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/147)
+
+[关于钱钟书所用比喻的疑问？ · Issue #146 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/146)
+
+[真善美和诚真感有对应关系吗？ · Issue #143 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/143)
 
 [什么是「具身认知」，它对认知、学习、写作的意义 · Issue #140 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/140)
 
-[过多和过新的比喻是不是认知负荷？ ·Issue #137 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/137)
+[过多和过新的比喻是不是认知负荷？ · Issue #137 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/137)
 
-[为什么易经上的话可以推出修辞以立其诚？·Issue #136 ·  OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/136)
+[为什么易经上的话可以推出修辞以立其诚？ · Issue #136 ·  OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/136)
 
 [高阶思维 · Issue #132 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/132)
 
@@ -22,6 +26,8 @@
 [问题：修辞使用的时机 · Issue #142 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/142)
 
 ## 学习习惯
+
+[为什么「教学相长」是骗人的？ · Issue #145 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/145)
 
 [关于构建个人知识管理体系的几个问题 · Issue #144 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/144)
 
@@ -35,10 +41,10 @@
 
 # 学员笔记
 
-## 本周 Github 排名前 20 的学员笔记
+## 本周 GitHub 排名前 20 的学员笔记
 
 * 张海良 [@GettingThingsDone  第五讲 文采——修辞以立其感（上）](https://github.com/GettingThingsDone/BookWriter002/blob/master/chapter05/note.md)
-* 林晓彬 [@LinKdiing  ](https://github.com/Linkding/BookWriter002/tree/master/chapter05)
+* 林晓彬 [@LinKdiing](https://github.com/Linkding/BookWriter002/tree/master/chapter05)
 * 许豆浆 [@xudoujiang  note|好文采，坏文采](https://github.com/xudoujiang/BookWriter002/blob/master/chapter05/note%20%7C%20%E5%A5%BD%E6%96%87%E9%87%87%EF%BC%8C%E5%9D%8F%E6%96%87%E9%87%87.md)
 * 毛颖 [@gunuo 修辞以立其感](https://github.com/gunuo/BookWriter002/blob/master/chapter05/note.md)
 * 农人90 [@ShuangFarmer  note](https://github.com/ShuangFarmer/BookWriter002/tree/master/chapter05/note.md)
@@ -60,9 +66,9 @@
 
 ~阳老可针对其进行点评，或好或不足。或对其进行比较，下述选择的不一定是好的。
 
-## 大作业——对之前的任意的一个大作业进行改写。
+## 大作业——对之前的任意一个大作业进行改写。
 
-更多作业详见[[5w]好文采，坏文采 笔记及作业 展示·Issue #123 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/123)
+更多作业详见 [[5w]好文采，坏文采 笔记及作业 展示 · Issue #123 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/123)
 
 * 婷婷   [@kt1130 大作业](https://github.com/kt1130/BookWriter002/blob/master/chapter05/assignment.md)
 * Elodie [@Elodie 写作课记趣](https://github.com/Elodie603/BookWriter002/blob/master/chapter05/assignment.md)
